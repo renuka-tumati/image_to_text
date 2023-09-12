@@ -1,0 +1,14 @@
+1. Google Cloud Vision API: If you prefer a cloud-based solution, Google Cloud Vision API
+offers OCR capabilities with excellent accuracy. You can use the Google Cloud client library
+for Python to interact with the API.
+
+* Google Cloud Vision API: https://cloud.google.com/vision/docs/ocr
+
+2. Microsoft Azure Computer Vision: Microsoft Azure offers a Computer Vision service that
+includes OCR capabilities. You can use the Azure SDK for Python to integrate with this
+service.
+
+* Microsoft Azure Computer Vision: https://azure.microsoft.com/en-
+
+. ay . _ SS Regenerate
+us/services/cognitive-services/computer-vision/
